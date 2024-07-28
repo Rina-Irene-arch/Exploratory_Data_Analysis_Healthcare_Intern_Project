@@ -10,7 +10,7 @@ Exploring Drowsiness Patterns in Wearable Device Data
 **Dataset Description**:
 https://www.kaggle.com/datasets/vitoraugustx/drowsiness-dataset
 - The dataset was created using a Galaxy Watch4 smartwatch vital signs sensors. Data were collected from heart rate and PPG sensors (PPG includes 3 variations, green, red and infrared). The 'drowsiness' column refers to the label assigned by the user based on an adaptation of the Karolinska Sleepiness Scale (KSS).
-- Labels range from 0.0 to 2.0, where 0.0 represents level 1 on the KSS scale (Alert), 1.0 corresponds to level 6 (Some signs of sleepiness), and 2.0 indicates level 8 (Sleepy, but some effort to stay awake).
+- Labels range from 0.0 to 2.0, where 0.0 represents level 1 on the KSS scale (Alert), 1.0 corresponds to level 6 (Some signs of sleepiness), and 2.0 indicates level 8 (Sleepy, but some effort to stay awake).
 - Columns:
   - heartRate: Heart rate readings from the smartwatch sensors.
   - ppgGreen, ppgRed, ppgIR: PPG (Photoplethysmography) sensor readings in green, red, and infrared wavelengths respectively.
